@@ -1,0 +1,79 @@
+= C4 
+Anthony Cassaigne
+:imagesdir: images
+:icons: font
+
+
+== Documenter une architecture logiciel
+
+* Léger
+* Se comprendre
+
+
+== Pas de norme
+
+* Un même terme est utilisé pour différente notion
+* Différent niveaux d'abstraction
+* Pas de norme pour les schema (versus schema électrique...)
+
+
+==  4 niveau d'abstraction
+image::c4_abstractions.png[4 abstractions level,role=cover canvas]
+
+
+
+== Test de citation 
+
+[quote.tada,Name,Company]
+This is an example of a quote.
+
+
+
+== Test autre image
+
+image::arbre.jpg[Arbre,697,299,role=crux,credit="Photo de mali maeder"]
+
+
+[.compact]
+== Slide with Smaller Font
+* All http://google.com[links] open in new tabs.
+* To change that behavior, add `target="_self"` to the link.
+
+
+== Table Option A: Subtitle Placeholder
+[%header%autowidth.spread]
+|===
+ |      |Column 1     |Column 2    |Column 3    |Column 4
+s|Row 1 |placeholder v|placeholder |placeholder |placeholder
+s|Row 2 |placeholder  |placeholder |placeholder |placeholder
+s|Row 3 |placeholder  |placeholder |placeholder |placeholder
+s|Row 4 |placeholder  |placeholder |placeholder |placeholder
+s|Row 5 |placeholder  |placeholder |placeholder |placeholder
+|===
+
+[.compact]
+
+
+== Table Option A (Smaller Text): Subtitle Placeholder
+[%header%autowidth.spread]
+|===
+ |      |Column 1     |Column 2    |Column 3    |Column 4
+s|Row 1 |placeholder v|placeholder |placeholder |placeholder
+s|Row 2 |placeholder  |placeholder |placeholder |placeholder
+s|Row 3 |placeholder  |placeholder |placeholder |placeholder
+s|Row 4 |placeholder  |placeholder |placeholder |placeholder
+s|Row 5 |placeholder  |placeholder |placeholder |placeholder
+|===
+
+
+== Pour me retrouver 
+
+Vous pouvez me contacter :
+
+[horizontal.contact]
+email:: ...
+twitter:: @acassaigne	
+www:: https://acassaigne.info/
+github:: gitlab.com/acassaigne
+
+[.inverse.subject]
